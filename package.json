@@ -1,8 +1,8 @@
 {
   "name": "@wallaby-3235/source",
+  "packageManager": "yarn@3.6.0",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
   "private": true,
   "dependencies": {
     "@swc/helpers": "~0.5.0",
